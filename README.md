@@ -16,6 +16,12 @@
   Experience with `Windows AD`, `FreeIPA`, and relational system administration tools.
 - **Tools & Platforms:**  
   `Git`, `Visual Studio Code`, `Yandex Cloud`.
+**Stack**
+  
+<div align="center">
+   <img src="languages graph"  />
+   <img src="https://skillicons.dev/icons?i=python,bash,ubuntu,debian,js,docker" height="150" alt="stats graph"  />
+</div>
   
 
 <!--
