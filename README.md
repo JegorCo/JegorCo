@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-**JegorCo/JegorCo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**My name is Jegor(Yegor(Egor)))**
 ### 💻 About Me
 - 🎓 **3rd-year Bachelor's student in Information Security** at HSE University (MIEM).
 - 💡 Passionate about **System administration** and constantly looking to improve.
