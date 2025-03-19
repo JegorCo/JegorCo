@@ -9,7 +9,7 @@
 - 🔭 Love to use Linux(Ubuntu, Debian)
   
 ### 🛠️ Skills & Technologies
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJKenn3dy&layout=compact&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JegorCo&layout=compact&langs_count=10)
 - **Programming Languages:**  
   `Bash`, `Python`, `SQL`, `HTML/CSS`, `JavaScript`.
 - **OS:**  
