@@ -4,7 +4,7 @@
 **My name is Jegor(Yegor(Egor)))**
 ### 💻 About Me
 - 🎓 **3rd-year Bachelor's student in Information Security** at HSE University (MIEM).
-- 💡 Passionate about **System administration** and constantly looking to improve.
+- 💡 Passionate about **System Engeneering** and constantly looking to improve.
 - 🛠️ Enjoy in learning new themes and improve my skills
 - 🔭 Love to use Linux(Ubuntu, Debian)
   
