@@ -3,7 +3,7 @@
 
 **My name is Jegor(Yegor(Egor)))**
 ### 💻 About Me
-- 🎓 **3rd-year Bachelor's student in Information Security** at HSE University (MIEM).
+- 🎓 **4th-year Bachelor's student in Information Security** at HSE University (MIEM).
 - 💡 Passionate about **System Engeneering** and constantly looking to improve.
 - 🛠️ Enjoy in learning new themes and improve my skills
 - 🔭 Love to use Linux(Ubuntu, Debian)
@@ -16,7 +16,7 @@
   Experience with `Windows AD`, `FreeIPA`, and relational system administration tools.
 - **Tools & Platforms:**  
 <div align="center">
-   <img src="https://skillicons.dev/icons?i=python,bash,ubuntu,debian,js,docker,vscode" height="150" alt="stats graph"  />
+   <img src="https://skillicons.dev/icons?i=python,bash,ubuntu,debian,js,docker,vscode,ansible" height="150" alt="stats graph"  />
 </div>
   
 
