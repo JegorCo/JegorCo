@@ -6,7 +6,7 @@
 - 🎓 **4th-year Bachelor's student in Information Security** at HSE University (MIEM).
 - 💡 Passionate about **System Engeneering** and constantly looking to improve.
 - 🛠️ Enjoy in learning new themes and improve my skills
-- 🔭 Love to use Linux(Ubuntu, Debian)
+- 🔭 Love to use Linux (Ubuntu, Debian, CentOS, Astra Linux, CentOS)
   
 ### 🛠️ Skills & Technologies
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JegorCo&layout=compact&langs_count=10)
