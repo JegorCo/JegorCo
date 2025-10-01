@@ -2,8 +2,9 @@
 
 **My name is Jegor(Yegor(Egor)))**
 <div align="center">
-   <img src="https://github.com/JegorCo/JegorCo/blob/main/vaporwave-aesthetic.gif" height="300" alt="stats graph"  />
+   <img src="https://github.com/JegorCo/JegorCo/blob/main/vaporwave-aesthetic.gif" height="320" width="640" />
 </div>
+
 ### 💻 About Me
 - 🎓 **4th-year Bachelor's student in Information Security** at HSE University (MIEM).
 - 💡 Passionate about **Networks and infrastructures** and constantly looking to improve.
