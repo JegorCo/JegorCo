@@ -13,6 +13,9 @@
   
 ### 🛠️ Skills & Technologies
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JegorCo&layout=compact&langs_count=10)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JegorCo&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JegorCo&theme=aura_dark)
+
 - **Programming Languages:**  
   `Bash`, `Python`, `SQL`, `JavaScript`.
 - **OS:**  
@@ -21,7 +24,7 @@
 <div align="center">
    <img src="https://skillicons.dev/icons?i=python,bash,ubuntu,debian,js,docker,vscode,ansible,terraform" height="150" alt="stats graph"  />
 </div>
-  
+
 
 <!--
 Here are some ideas to get you started:
