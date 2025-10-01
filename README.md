@@ -2,7 +2,7 @@
 
 **My name is Jegor(Yegor(Egor)))**
 <div align="center">
-   <img src="https://github.com/JegorCo/JegorCo/blob/main/vaporwave-aesthetic.gif" height="320" width="640" />
+   <img src="https://github.com/JegorCo/JegorCo/blob/main/vaporwave-aesthetic.gif" />
 </div>
 
 ### 💻 About Me
