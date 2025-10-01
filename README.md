@@ -14,7 +14,7 @@
 ### 🛠️ Skills & Technologies
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JegorCo&layout=compact&langs_count=10)
 - **Programming Languages:**  
-  `Bash`, `Python`, `SQL`, `HTML/CSS`, `JavaScript`.
+  `Bash`, `Python`, `SQL`, `JavaScript`.
 - **OS:**  
   Experience with `Windows AD`, `FreeIPA`, and relational system administration tools. Also I have experience with automation tools like `Ansible`, `Salt Stack`, `Terraform`, etc.
 - **Tools & Platforms:**  
