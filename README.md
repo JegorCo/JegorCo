@@ -4,19 +4,19 @@
 **My name is Jegor(Yegor(Egor)))**
 ### 💻 About Me
 - 🎓 **4th-year Bachelor's student in Information Security** at HSE University (MIEM).
-- 💡 Passionate about **System Engeneering** and constantly looking to improve.
-- 🛠️ Enjoy in learning new themes and improve my skills
-- 🔭 Love to use Linux (Ubuntu, Debian, CentOS, Astra Linux, CentOS)
+- 💡 Passionate about **Networks and infrastructures** and constantly looking to improve.
+- 🛠️ Enjoy in learning new themes and improve my skills in IaC and administrating tools
+- 🔭 Love to use Linux (Ubuntu, Debian, CentOS, Astra Linux, CentOS) and automize configurations of infrastructures
   
 ### 🛠️ Skills & Technologies
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JegorCo&layout=compact&langs_count=10)
 - **Programming Languages:**  
   `Bash`, `Python`, `SQL`, `HTML/CSS`, `JavaScript`.
 - **OS:**  
-  Experience with `Windows AD`, `FreeIPA`, and relational system administration tools.
+  Experience with `Windows AD`, `FreeIPA`, and relational system administration tools. Also I have experience with automation tools like `Ansible`, `Salt Stack`, `Terraform`, etc.
 - **Tools & Platforms:**  
 <div align="center">
-   <img src="https://skillicons.dev/icons?i=python,bash,ubuntu,debian,js,docker,vscode,ansible" height="150" alt="stats graph"  />
+   <img src="https://skillicons.dev/icons?i=python,bash,ubuntu,debian,js,docker,vscode,ansible,terraform" height="150" alt="stats graph"  />
 </div>
   
 
