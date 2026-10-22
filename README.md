@@ -6,7 +6,7 @@
 </div>
 
 ### 💻 About Me
-- 🎓 **4th-year Bachelor's student in Information Security** at HSE University (MIEM).
+- 🎓 **Bachelor's degree in Information Security** at HSE University (MIEM).
 - 💡 Passionate about **Networks and infrastructures** and constantly looking to improve.
 - 🛠️ Enjoy in learning new themes and improve my skills in IaC and administrating tools
 - 🔭 Love to use Linux (Ubuntu, Debian, CentOS, Astra Linux, CentOS) and automize configurations of infrastructures
