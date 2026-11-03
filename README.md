@@ -12,7 +12,6 @@
 - 🔭 Love to use Linux (Ubuntu, Debian, CentOS, Astra Linux, CentOS) and automize configurations of infrastructures
   
 ### 🛠️ Skills & Technologies
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JegorCo&layout=compact&langs_count=10&theme=aura_dark)
 <!--
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JegorCo&theme=aura_dark)
 -->
