@@ -15,7 +15,7 @@
 <!--
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JegorCo&theme=aura_dark)
 -->
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JegorCo&theme=aura_dark)
+![Most Used Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=JegorCo&layout=compact&theme=aura_dark&langs_count=8)
 
 - **Programming Languages:**  
   `Bash`, `Python`, `SQL`, `JavaScript`.
